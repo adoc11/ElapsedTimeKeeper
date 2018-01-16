@@ -1,0 +1,16 @@
+C:\Users\adoc1\Documents\Visual Studio 2017\Projects\ElapsedTimeKeeper\ElapsedTimeKeeper\bin\Debug\ElapsedTimeKeeper.exe.config
+C:\Users\adoc1\Documents\Visual Studio 2017\Projects\ElapsedTimeKeeper\ElapsedTimeKeeper\bin\Debug\ElapsedTimeKeeper.exe
+C:\Users\adoc1\Documents\Visual Studio 2017\Projects\ElapsedTimeKeeper\ElapsedTimeKeeper\bin\Debug\ElapsedTimeKeeper.pdb
+C:\Users\adoc1\Documents\Visual Studio 2017\Projects\ElapsedTimeKeeper\ElapsedTimeKeeper\obj\Debug\MainWindow.g.cs
+C:\Users\adoc1\Documents\Visual Studio 2017\Projects\ElapsedTimeKeeper\ElapsedTimeKeeper\obj\Debug\App.g.cs
+C:\Users\adoc1\Documents\Visual Studio 2017\Projects\ElapsedTimeKeeper\ElapsedTimeKeeper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\adoc1\Documents\Visual Studio 2017\Projects\ElapsedTimeKeeper\ElapsedTimeKeeper\obj\Debug\ElapsedTimeKeeper_MarkupCompile.cache
+C:\Users\adoc1\Documents\Visual Studio 2017\Projects\ElapsedTimeKeeper\ElapsedTimeKeeper\obj\Debug\ElapsedTimeKeeper_MarkupCompile.lref
+C:\Users\adoc1\Documents\Visual Studio 2017\Projects\ElapsedTimeKeeper\ElapsedTimeKeeper\obj\Debug\MainWindow.baml
+C:\Users\adoc1\Documents\Visual Studio 2017\Projects\ElapsedTimeKeeper\ElapsedTimeKeeper\obj\Debug\ElapsedTimeKeeper.g.resources
+C:\Users\adoc1\Documents\Visual Studio 2017\Projects\ElapsedTimeKeeper\ElapsedTimeKeeper\obj\Debug\ElapsedTimeKeeper.Properties.Resources.resources
+C:\Users\adoc1\Documents\Visual Studio 2017\Projects\ElapsedTimeKeeper\ElapsedTimeKeeper\obj\Debug\ElapsedTimeKeeper.csproj.GenerateResource.Cache
+C:\Users\adoc1\Documents\Visual Studio 2017\Projects\ElapsedTimeKeeper\ElapsedTimeKeeper\obj\Debug\ElapsedTimeKeeper.csproj.CoreCompileInputs.cache
+C:\Users\adoc1\Documents\Visual Studio 2017\Projects\ElapsedTimeKeeper\ElapsedTimeKeeper\obj\Debug\ElapsedTimeKeeper.exe
+C:\Users\adoc1\Documents\Visual Studio 2017\Projects\ElapsedTimeKeeper\ElapsedTimeKeeper\obj\Debug\ElapsedTimeKeeper.pdb
+C:\Users\adoc1\Documents\Visual Studio 2017\Projects\ElapsedTimeKeeper\ElapsedTimeKeeper\obj\Debug\ElapsedTimeKeeper.csprojResolveAssemblyReference.cache
